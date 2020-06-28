@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Signature
 Peiqi Wang
+
+## Copyright
+copyright added
